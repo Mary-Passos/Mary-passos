@@ -37,6 +37,7 @@
   <img align="center" alt="Mary-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mary-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Mary-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Mary-Javascript" height="53" width="63" src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Logo.png">
 </div>
 
   <img align="right" alt="Mary-coding" height="150" style="border-radius:10px;" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MWxza3FicHhmNWZoc2dvNmVzdDN1NWJ6MXN4djEwM2V0c2I4d216MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LSKHkpRJySs5W81D7B/giphy.gif">
