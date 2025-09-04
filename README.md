@@ -40,4 +40,4 @@
   <img align="center" alt="Mary-Javascript" height="53" width="63" src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Logo.png">
 </div>
 
-  <img align="right" alt="Mary-coding" height="150" style="border-radius:10px;" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MWxza3FicHhmNWZoc2dvNmVzdDN1NWJ6MXN4djEwM2V0c2I4d216MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LSKHkpRJySs5W81D7B/giphy.gif">
+  <img align="right" alt="Mary-coding" height="150" style="border-radius:10px;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJqZzZzbXlpdnlnem00Y252cXI5N2tmMnJ0ZWFnaXhrbHJ1YnlnNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eSwGh3YK54JKU/giphy.gif">
